@@ -5,11 +5,11 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Luciano Capo
+  label: Luciano
 - type: directory
-  path: exampleSite/content/english/Luciano Capo
+  path: exampleSite/content/english/Luciano
   label: Post (en)
-  create: all
+  create: documents
   match: "**/*"
 - type: heading
   label: Blog Post
