@@ -17,3 +17,5 @@ fields:
   description: '12'
   showOnly:
     field: '12'
+pages:
+- exampleSite/content/english/Luciano Capo/{{.md
