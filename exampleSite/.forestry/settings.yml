@@ -6,6 +6,11 @@ webhook_url:
 sections:
 - type: heading
   label: Luciano Capo
+- type: directory
+  path: exampleSite/content/english/Luciano Capo
+  label: Post (en)
+  create: all
+  match: "**/*"
 - type: heading
   label: Blog Post
 - type: directory
