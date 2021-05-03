@@ -1,4 +1,19 @@
 ---
 label: Luciano Ezequiel
 hide_body: true
-fields: []
+fields:
+- name: '12'
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: '12'
+  description: '12'
+  showOnly:
+    field: '12'
