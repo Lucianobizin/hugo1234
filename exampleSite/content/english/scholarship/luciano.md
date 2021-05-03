@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/banner/banner-feature.png"
 description = ""
-image = ""
+image = "/images/teachers/teacher-2.jpg"
 title = "Luciano"
 
 +++
